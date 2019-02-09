@@ -20,11 +20,11 @@ social:
 #    - icon: fa-facebook
 #      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/matt-chv"
+      link: "https://twitter.com/matt_chevrier"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/matt-chv"
+      link: "https://www.linkedin.com/in/matthieuchevrier"
     - icon: fa-stack-exchange
-      link: "https://stackexchange.com/users/1195495/matt-chv"
+      link: "https://stackexchange.com/users/1195495/mcv"
     - icon: fa-github
       link: "https://github.com/matt-chv/embedded-analog-intelligence"
     - icon: fa-whatsapp
