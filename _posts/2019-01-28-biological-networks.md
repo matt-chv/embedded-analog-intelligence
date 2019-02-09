@@ -6,7 +6,7 @@ lang: en
 ---
 
 Notes from this [article](https://phys.org/news/2019-01-physicists-limits-multitasking-biological-networks.html)
-[Primary publicaion](https://www.pnas.org/content/early/2019/01/23/1806790116)
+[Primary publication](https://www.pnas.org/content/early/2019/01/23/1806790116)
 
 Biologists study many networks, not just neural networks.
 
