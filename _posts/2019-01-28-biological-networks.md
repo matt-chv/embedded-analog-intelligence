@@ -21,3 +21,5 @@ The findings are
 
 > Our finding that a disordered network topology allows for tunability may have relevance to real biological networks. For example, the development of certain vascular structures within animals is characterized by the initial appearance of a tightly meshed disordered network of veins (the vascular plexus) that is subsequently pruned and tuned to its function (26). The initial disordered network may be a prerequisite of the great variability and versatility seen in natural networks.
 
+### Questions:
+* Can this be leveraged for designs of NN? If so, how?
