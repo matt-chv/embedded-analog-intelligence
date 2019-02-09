@@ -1,5 +1,5 @@
 ---
-title: Intelligences
+title: Interspecies Translation
 date: 2019-01-31
 category: prospective
 lang: en
