@@ -1,7 +1,7 @@
 ---
 title: Interspecies Translation
 date: 2019-01-31
-category: business
+category: foresight
 lang: en
 ---
 
