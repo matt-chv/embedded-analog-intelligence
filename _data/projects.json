@@ -1,0 +1,24 @@
+[
+	{
+		"slug": "cool-project",
+		"name": "electronics-design-patterns",
+		"image": "placeholder.jpg",
+		"url": "https://www.google.com",
+		"date": "Oct 2018",
+		"tags": ["Python","KiCaD","Inkscape","Reportab"]
+	},
+	{
+		"name": "embedded-analog-intelligence",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "May 2014",
+		"tags": ["Python","Jekyll"]
+	},
+	{
+		"name": "py4EE",
+		"image": "placeholder.jpg",
+		"url": "#",
+		"date": "Jan 2014",
+		"tags": ["Python"]
+	}
+]

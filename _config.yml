@@ -1,0 +1,60 @@
+title: embedded-analog-intelligence
+description: No spark is too small to fire a dream
+author: matt-chv
+github: https://github.com/matt-chv
+about: No spark is too small to fire a dream
+disqus_shortname: disqus_e5sxXi13p5
+google_analytics: UA-XXXXXXXX-Y
+#avatar_url: /spark2-fi/static/img/avatar.jpg
+avatar_url: /embedded-analog-intelligence/static/img/spark.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+#    - icon: fa-facebook
+#      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/matt-chv"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/matt-chv"
+    - icon: fa-stack-exchange
+      link: "https://stackexchange.com/users/1195495/matt-chv"
+    - icon: fa-github
+      link: "https://github.com/matt-chv/embedded-analog-intelligence"
+    - icon: fa-whatsapp
+      link: "https://wa.me/?text=https%3A%2F%2Fmatt-chv.github.io%2Fembedded-analog-intelligence"
+
+share:
+  twitter_username: matt-chv
+#  fb_appid: 1749788565247320
+
+urls:
+    - text: About Me
+      url: /about/
+    - text: My Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://matt-chv.github.io"
+baseurl: "/embedded-analog-intelligence"
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
+  ignore:
+    envs: ['development']
