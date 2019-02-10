@@ -1,7 +1,7 @@
 ---
 title: Xiaomi speakers in french
 date: 2019-01-18
-category: business, prospective
+category: business, foresight
 lang: en
 ---
 
