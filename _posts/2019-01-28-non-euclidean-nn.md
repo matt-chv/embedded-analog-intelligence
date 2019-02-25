@@ -16,7 +16,6 @@ Frameworks so far:
 * Splatnet
 * Pointnet
 * Pointnet++
+* VoxNet
 
 ### Questions:
-* are DNN with RELU activation and mimicking neurons or more primitive cognitive networks?
-* would DNN with more primitive or more advanced networks topologies and function provide better solutions for today's problems?
