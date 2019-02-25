@@ -3,9 +3,9 @@ title: Federated Learning
 date: 2019-02-05
 category: theory
 lang: en
-image: federated_learning.jpg
+image: FederatedLearning_FinalFiles_Flow Chart1.png
 ---
-![]({{ site.baseurl }}/static/img/federated_learning.jpg)
+![]({{ site.baseurl }}/static/img/FederatedLearning_FinalFiles_Flow Chart1.png)
 
 notes from [federated learning google blog](https://ai.googleblog.com/2017/04/federated-learning-collaborative.html)
 
