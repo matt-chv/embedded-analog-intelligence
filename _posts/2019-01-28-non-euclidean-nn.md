@@ -10,7 +10,8 @@ notes from [youtube](https://www.youtube.com/watch?v=D3fnGG7cdjY)
 NN so far are leveraging euclidean geometry.
 LiDaR and other sensor sources are providing voxels/ ... which are not euclidean
 
-[LeCun arxiv publication](https://arxiv.org/pdf/1611.08097.pdf)
+[LeCun arxiv publication](https://arxiv.org/pdf/1611.08097.pdf)   
+
 [geometricdeeplearning.com](http://geometricdeeplearning.com/)
 
 Frameworks so far:
