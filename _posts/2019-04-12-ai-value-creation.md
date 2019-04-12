@@ -1,6 +1,6 @@
 ---
 title: AI value creation in business
-date: 2018-11-16
+date: 2019-04-12
 category: business
 lang: en
 image: AI_business_impact.PNG
