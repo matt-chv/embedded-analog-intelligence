@@ -67,6 +67,10 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 # your content post with markdown syntax goes here...
 ```
 
-### Contributing
-
-Feel free to [open a bug](https://github.com/agusmakmun/agusmakmun.github.io/issues) or [contribute to code](https://github.com/agusmakmun/agusmakmun.github.io/pulls)!
+### Boiler Plate code for new posts:
+---
+title: Germany's AI policy
+date: 2018-11-16
+category: business
+lang: en
+---
