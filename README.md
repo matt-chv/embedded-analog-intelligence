@@ -68,9 +68,11 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 ```
 
 ### Boiler Plate code for new posts:
+"""
 ---
 title: Germany's AI policy
 date: 2018-11-16
 category: business
 lang: en
 ---
+"""
