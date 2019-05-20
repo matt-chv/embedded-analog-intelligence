@@ -72,7 +72,7 @@ image: Broadcast_Mail.png             # (custom) image only for meta `property="
 ---
 title: Germany's AI policy
 date: 2018-11-16
-category: business
+category: business, actuator, foresight, io, ros, technology, theory, training
 lang: en
 ---
 ```
