@@ -2,7 +2,7 @@ title: embedded-analog-intelligence
 description: views and notes on intelligences
 author: matt-chv
 github: https://github.com/matt-chv
-about: what do we know about intelligence
+about: robotics is more than AI, robotics needs AI embedded in the system (fed from real time sensors data and planning and adjusting in real-time its actions).
 disqus_shortname: disqus_e5sxXi13p5
 google_analytics: UA-XXXXXXXX-Y
 #avatar_url: /spark2-fi/static/img/avatar.jpg
@@ -29,6 +29,9 @@ social:
       link: "https://github.com/matt-chv/embedded-analog-intelligence"
     - icon: fa-whatsapp
       link: "https://wa.me/?text=https%3A%2F%2Fmatt-chv.github.io%2Fembedded-analog-intelligence"
+    - icon: fa-google-scholar
+      link: "https://scholar.google.com/citations?user=gs3enb8AAAAJ&hl=en"
+    
 
 share:
   twitter_username: matt-chv
