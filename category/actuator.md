@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: actuator
-title: Actuators
+title: Actuator
 permalink: /category/actuator
 ---
