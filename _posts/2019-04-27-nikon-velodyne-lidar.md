@@ -1,7 +1,7 @@
 ---
 title: Nikon Velodyne LiDaR
 date: 2019-04-27
-category: business
+category: [business,lidar]
 lang: en
 ---
 
