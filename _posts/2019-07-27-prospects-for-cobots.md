@@ -1,7 +1,7 @@
 ---
 title: prospective applications for cobots
 date: 2018-11-16
-category: prospective
+category: foresight
 lang: en
 ---
 
