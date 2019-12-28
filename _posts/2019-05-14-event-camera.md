@@ -1,7 +1,7 @@
 ---
 title: Event Camera for drones
 date: 2018-11-16
-category: sensors
+category: sensor
 lang: en
 ---
 [IEEE](https://spectrum.ieee.org/automaton/robotics/drones/event-camera-helps-drone-dodge-thrown-objects)
