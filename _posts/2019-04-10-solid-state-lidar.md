@@ -1,7 +1,7 @@
 ---
 title: Solid State LiDar: Quanergy, Lumotive
 date: 2019-04-10
-category: sensor
+category: [sensor,lidar]
 lang: en
 ---
 [IEEE](https://spectrum.ieee.org/cars-that-think/transportation/sensors/quanergys-ceo-we-rule-solidstate-lidar)
