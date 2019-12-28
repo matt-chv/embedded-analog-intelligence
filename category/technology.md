@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: technology
-title: tehnology
+title: Technology
 permalink: /category/technology
 ---
