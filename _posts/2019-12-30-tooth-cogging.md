@@ -14,4 +14,4 @@ https://www.precisionmicrodrives.com/content/cogging-torque-in-permanent-magnet-
 
 
 ## Question
-RL to improve beyond encoder based compensation ?
+* RL to improve beyond encoder based compensation ?
