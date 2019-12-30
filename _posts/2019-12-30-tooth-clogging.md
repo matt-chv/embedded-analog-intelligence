@@ -10,3 +10,8 @@ accurate modelling allows for torque feedback limitation and torque limitation i
 
 to read from adjacent market : https://ieeexplore.ieee.org/document/1556714
 
+https://www.precisionmicrodrives.com/content/cogging-torque-in-permanent-magnet-motors/
+
+
+## Question
+RL to improve beyond encoder based compensation ?
