@@ -46,6 +46,10 @@ Lighting Standards ............................................17
  LIR-001-2017 Laser Line Metrics for use in Machine Vision and Metrology Applications
  ```
  
+ ## Related articles
+ * []()
+ * [Quantum dots camera sensors]({% https://matt-chv.github.io/embedded-analog-intelligence/sensor/2020/02/27/qdot_cameras.html 2020-02-27-qdot_cameras %})
+ 
  ## Questions:
  
  * Architecture overview?
