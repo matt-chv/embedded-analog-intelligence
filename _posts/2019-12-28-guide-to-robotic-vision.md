@@ -48,7 +48,7 @@ Lighting Standards ............................................17
  
  ## Related articles
  * []()
- * [Quantum dots camera sensors]({% https://matt-chv.github.io/embedded-analog-intelligence/sensor/2020/02/27/qdot_cameras.html 2020-02-27-qdot_cameras %})
+ * [Quantum dots camera sensors]({% post_url 2020-02-27-qdot_cameras %})
  
  ## Questions:
  
