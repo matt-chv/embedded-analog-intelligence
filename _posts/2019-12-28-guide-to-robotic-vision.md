@@ -44,9 +44,10 @@ Lens Mount Standards.......................................16
 Lighting Standards ............................................17
 ```
  LIR-001-2017 Laser Line Metrics for use in Machine Vision and Metrology Applications
- ```
- 
+ ```    
+     
  ## Related articles
+ 
  * []()
  * [Quantum dots camera sensors]({% post_url 2020-02-27-qdot_cameras %})
  
