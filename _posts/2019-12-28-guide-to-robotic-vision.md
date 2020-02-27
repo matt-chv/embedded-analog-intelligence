@@ -35,23 +35,23 @@ is highly portable and available on a range of operating systems and compilers.
  Camera Performance Standards
 EMVA 1288 ................................................15
 
-'''
+```
 The 1288 standard is based on a linear camera model. All noise sources except for photon noise and quantization noise can
 be included into a single parameter, the variance of the dark noise. Thus the model contains only three basic unknowns: the
 quantum efficiency, the dark noise and the system gain.
-'''
+```
 Lens Mount Standards.......................................16
 Lighting Standards ............................................17
 ```
- LIR-001-2017 Laser Line Metrics for use in Machine Vision and Metrology Applications
- ```    
+LIR-001-2017 Laser Line Metrics for use in Machine Vision and Metrology Applications
+```    
      
- ## Related articles
+## Related articles
  
  * []()
  * [Quantum dots camera sensors]({% post_url 2020-02-27-qdot_cameras %})
  
- ## Questions:
+## Questions:
  
  * Architecture overview?
  Brochure gives p 13 a very brief overview
