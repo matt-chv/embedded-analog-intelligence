@@ -1,6 +1,6 @@
 ---
 title: Polyani Paradox
-date: 2020-02-28
+date: 2020-02-29
 category: theory
 lang: en
 ---
