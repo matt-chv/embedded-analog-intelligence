@@ -1,5 +1,5 @@
 ---
-title: Polyani Paradox
+title: Polyani's Paradox
 date: 2020-02-29
 category: theory
 lang: en
