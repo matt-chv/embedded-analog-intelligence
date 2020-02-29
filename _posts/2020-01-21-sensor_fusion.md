@@ -4,6 +4,7 @@ date: 2020-01-21
 category: sensor
 lang: en
 ---
+
 sensor fusion for *layman*: learning to ride a bike is learning to fuse information from visual cortex and vestibular to keep :
 * balance 
 * while keeping the bike away from traffic and static obstacles
