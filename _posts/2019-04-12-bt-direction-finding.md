@@ -1,5 +1,5 @@
 ---
-title: Bluetooth Direction Finding: A Technical Overview
+title: Bluetooth Direction Finding
 date: 2018-11-16
 category: business
 lang: en
