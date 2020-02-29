@@ -1,9 +1,10 @@
 ---
-title: "Guide to Robotic Vision"
+title: Guide to Robotic Vision
 date: 2019-12-28
 category: sensor,ros
 lang: en
 ---
+
 [EMVA guide to machine vision](https://www.emva.org/wp-content/uploads/FSF-VS-Brochure-2018-A4-full.pdf)
 
 ## Key take-away:
