@@ -49,7 +49,8 @@ LIR-001-2017 Laser Line Metrics for use in Machine Vision and Metrology Applicat
 ## Related articles
  
  * [Event based camera]({% post_url 2018-11-16-event-camera.html %})
- * [Quantum dots camera sensors]({% post_url 2020-02-27-qdot_cameras %}) and [THZ imaging]({% post_url 2019-02-26-thz-imaging %})
+ * [Quantum dots camera sensors]({% post_url 2020-02-27-qdot_cameras %}) and
+ * [THZ imaging]({% post_url 2019-02-26-thz-imaging %})
  
 ## Questions:
  
