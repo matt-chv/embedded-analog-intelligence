@@ -1,9 +1,10 @@
 ---
-title: Solid State LiDar: Quanergy, Lumotive
+title: Solid State LiDar Companies
 date: 2019-04-10
 category: sensor,lidar
 lang: en
 ---
+
 [IEEE](https://spectrum.ieee.org/cars-that-think/transportation/sensors/quanergys-ceo-we-rule-solidstate-lidar)
 ```
 n 2015 Quanergy wowed crowds at CES with claims that it had a lidar that steered its laser beam without moving parts. Such a solid-state lidar would be smaller, tougher, and cheaper than the handmade rotating roof towers of Velodyne, then as now the leading lidar company.
