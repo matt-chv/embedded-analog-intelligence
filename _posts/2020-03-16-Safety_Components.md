@@ -22,9 +22,9 @@ B2: Safety related devices (i.e. two-hand controls, interlokcing devices, pressu
 
 ## a few pyramids
     
-| pyramid 1                                               | pyramid 2                                               |
-|---------------------------------------------------------|---------------------------------------------------------|
-| ![]({{ site.baseurl }}/static/img/safety_pyramid_1.gif) | ![]({{ site.baseurl }}/static/img/safety_pyramid_2.gif) |
+| pyramid 1                                               | pyramid 2                                               |    
+|---------------------------------------------------------|---------------------------------------------------------|    
+| ![]({{ site.baseurl }}/static/img/safety_pyramid_1.gif) | ![]({{ site.baseurl }}/static/img/safety_pyramid_2.gif) |    
 
 # Standards and best guess classification
 
