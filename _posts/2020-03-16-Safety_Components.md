@@ -15,8 +15,8 @@ provides requirements and recommendations for the drafters of standards for the 
 * type A: Fundamental safety standards applicable to *all machinery*. Type A standards deal with basic concepts, principles for design, and general aspects.
 * type B: Standards applicable to a *wide range of machinery*, type B is divided in two categories:
 
-B1: Specific safety aspects (i.e. safey distance, surface temperature, noise, ...)
-B2: Safety related devices (i.e. two-hand controls, interlokcing devices, pressure sentitive devices, ...)
+    * B1: Specific safety aspects (i.e. safey distance, surface temperature, noise, ...)    
+    * B2: Safety related devices (i.e. two-hand controls, interlokcing devices, pressure sentitive devices, ...)
 
 * type C: Detailed standards applicable to a *specific machine* or a particular group of machines
 
