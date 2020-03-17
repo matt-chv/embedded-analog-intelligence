@@ -20,7 +20,9 @@ B2: Safety related devices (i.e. two-hand controls, interlokcing devices, pressu
 
 * type C: Detailed standards applicable to a *specific machine* or a particular group of machines
 
-## a few pyramids
+## a few pyramids    
+
+As can be seen in below table, multiple readers can have multiple understanding of the concepts exposed in IEC Guide 51
     
 | pyramid 1                                               | pyramid 2                                               |    
 |---------------------------------------------------------|---------------------------------------------------------|    
@@ -35,7 +37,8 @@ B2: Safety related devices (i.e. two-hand controls, interlokcing devices, pressu
 | [ISO 12100](https://www.iso.org/standard/51528.html) | Safety of machinery -<br> General principles for design — Risk assessment and risk reduction |  B    |
 | [ISO 14121](https://www.iso.org/standard/38479.html) | Safety Of Machinery -<br> General Principles For Design - Risk Assessment And Risk Reduction |  B    |
 | ISO 26262   | Road vehicles – Functional safety      | B      |    
-| ISO 10218   | Road vehicles – Functional safety      | B      | 
+| [ISO 10218-1](https://www.iso.org/standard/51330.html)   | Robots and robotic devices — Safety requirements for industrial robots — Part 1: Robots      | c      | 
+| [ISO 10218-2](https://www.iso.org/standard/73934.html)   | Robotics — Safety requirements for robotics in an industrial environment — Part 2: Robot systems and integration      | C      | 
 
 ## IEC    
 
