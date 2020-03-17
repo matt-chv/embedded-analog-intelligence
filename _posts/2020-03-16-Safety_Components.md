@@ -65,10 +65,12 @@ As can be seen in below table, multiple readers can have multiple understanding 
 | IEC 62471   | Photobiological safety of lamps and lamp systems | C     |
 | IEC TS 62998-1 | Safety of machinery <br> Safety-related sensors used for the protection of persons | C |
 
-## EN
-| Standard       | Title                                        | Type  |
-|----------------|----------------------------------------------|-------|
-| EN 50205       | Relay with forcibly guided (linked) contacts | C     |
+## EN    
+
+| Standard            | Title                                        | Type  |
+|---------------------|----------------------------------------------|-------|
+| [EN 61810-3](https://shop.bsigroup.com/ProductDetail/?pid=000000000030290909)       | Electromechanical elementary relays. Relays with forcibly guided (mechanically linked) contacts | C     |
+| [EN 50205](https://shop.bsigroup.com/ProductDetail?pid=000000000030071676)       | [Superseded, Withdrawn by EN 61810-3](https://shop.bsigroup.com/ProductDetail/?pid=000000000030290909)  | C     |
 
 
 ## Example of safety for communication
