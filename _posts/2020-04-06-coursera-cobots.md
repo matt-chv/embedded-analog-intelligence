@@ -30,3 +30,7 @@ NTR
 
 ### Testing
 [video1](https://www.coursera.org/learn/collaborative-robot-safety/lecture/5Tesa/testing-part-1)
+```
+Delete note marked from 33 seconds till 45 seconds
+Play video for highlighted transcript with text, However, to date, 15066 says very little about how to test robots to determine if they meet the safe forces described in the standard, marked from 33 seconds till 45 secondsHowever, to date, 15066 says very little about how to test robots to determine if they meet the safe forces described in the standard
+```
