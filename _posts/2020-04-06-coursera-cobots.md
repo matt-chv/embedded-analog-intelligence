@@ -24,3 +24,9 @@ Most applications are for payloads in the 1-5 kilogram range.
 '''
 There's a large force sensor between the base of the robot and the floor. This force sensor records the normal forces during a training session. Then, if during operation, an unexpected force is detected, the robot will stop
 '''
+
+### Automation Application: Machine Tending
+NTR
+
+### Testing
+[video1](https://www.coursera.org/learn/collaborative-robot-safety/lecture/5Tesa/testing-part-1)
