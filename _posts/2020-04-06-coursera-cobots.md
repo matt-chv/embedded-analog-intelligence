@@ -19,3 +19,8 @@ range., marked from 19 seconds till 36 secondsTo date, collaborative robots have
 handling applications with payloads of up to 30 kilograms. Although at heavier payloads, they are restricted to moving slowly. 
 Most applications are for payloads in the 1-5 kilogram range.
 """
+
+2:05 - 2:23
+'''
+There's a large force sensor between the base of the robot and the floor. This force sensor records the normal forces during a training session. Then, if during operation, an unexpected force is detected, the robot will stop
+'''
