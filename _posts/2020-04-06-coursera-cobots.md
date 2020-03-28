@@ -30,7 +30,33 @@ NTR
 
 ### Testing
 [video1](https://www.coursera.org/learn/collaborative-robot-safety/lecture/5Tesa/testing-part-1)
+
+6:08 - 6:30
 ```
-Delete note marked from 33 seconds till 45 seconds
-Play video for highlighted transcript with text, However, to date, 15066 says very little about how to test robots to determine if they meet the safe forces described in the standard, marked from 33 seconds till 45 secondsHowever, to date, 15066 says very little about how to test robots to determine if they meet the safe forces described in the standard
+Finally, risk reduction measures should be described. These might include reducing the robot speed when approaching pinch points, wrapping rigid objects with foam, tools that breakaway at certain forces and fixtures that are spring loaded and deflect if an operator is trapped by the robot.
+```
+
+5:45 - 5:53
+```
+It also includes the body part that could be contacted and the type of contact that might take place
+```
+
+5:22 - 5:45
+```
+For robots that fall under the category of power and force limiting, additional documentation is recommended, this includes the effect of payload which includes the robot moving mass, the end effector mass, the payload and the forward reflected inertia of the drive train which can be quite large.
+```
+
+4:50 - 5:00
+```
+Section seven of 15066 addresses verification and validation but not collision force testing
+```
+
+2:35 - 2:55
+```
+Broadly, there are two different types of collisions with people defined in ISO 15066. Collisions in free space, which are called transient collisions, and collisions against a rigid surface, which are called quasi-static collisions
+```
+
+0:33 - 0:45
+```
+However, to date, 15066 says very little about how to test robots to determine if they meet the safe forces described in the standard
 ```
