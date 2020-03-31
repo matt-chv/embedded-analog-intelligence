@@ -88,3 +88,8 @@ However, to date, 15066 says very little about how to test robots to determine i
 [Quasi static vs Transient](https://www.youtube.com/watch?v=dP_CX8MGlx4&feature=youtu.be)
 * Quasi-static: crushing
 * transient: human body free to move
+
+## ISO TS 15066 - RIA TR R15.606-2016    
+
+* [Table 1 - Injury severity, exposure, and avoidance factors](https://d3c33hcgiwev3.cloudfront.net/LZ49q7B0EeiWawql-q9FAg_2de92870b07411e88a4eb579a1c3d105_Table-1---Injury-severity_-exposure_-and-avoidance-factors.pdf?Expires=1585785600&Signature=lUlBdT1ySRVMC6a2BcR7C5Sa1wMHYV5-~2BkFceGG4v~p~YKo~LN1FqP5HZjKsW4mMEqhziAxDjZGSHElJua01ogf7ZrpdyjRnEkgi-gAsT6Wp2xLmIlSLjxQrfbrGaXzWYU5asw5zh4SSqLRLK9D58isvYxxYr9oWFXknlpA5A_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
+* [Table 2 - Risk level decision matrix](https://d3c33hcgiwev3.cloudfront.net/LZ4WDLB0Eeiu9BLDf-7i5A_2de99da0b07411e88d141f6854e3a104_Table-2---Risk-level-decision-matrix.pdf?Expires=1585785600&Signature=BNlo5F9KasugvRc1iChGVt~pOmT0dlYFh5~xwoo5sxV1B~QzjG7G63Tju5bD80zpssxVZza73SzvPvYXSoBTsN-z9w4laH225RnRXeWjKiZOxELbRksldQpgtlwrPddTHucs8Bwt6mqFA8TlGTd2YOMAQjB48rOiqHGwNDCOO-M_&Key-Pair-Id=APKAJLTNE6QMUY6HBC5A)
