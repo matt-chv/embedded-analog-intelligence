@@ -1,8 +1,9 @@
-'''
-title: [Coursera] Cobots
+---
+title: Coursera - Collaborative Robot Safety: Design & Deployment
 date: 2020-04-06
-label: safety
-'''
+category: safety
+lang: en
+---
 
 Notes from Cousera class on 
 [Collaborative Robot Safety: Design & Deployment](https://de.coursera.org/learn/collaborative-robot-safety)
@@ -60,3 +61,9 @@ Broadly, there are two different types of collisions with people defined in ISO 
 ```
 However, to date, 15066 says very little about how to test robots to determine if they meet the safe forces described in the standard
 ```
+
+### Testing 2
+### Additional Ressources
+
+[GTE force testing fixture on youtube](https://www.youtube.com/watch?v=4Q92fAOqTSc&feature=youtu.be)
+[GTE product page](https://www.gte.de/product/force-measuring-systems-for-collaborating-robots/?lang=en)
