@@ -8,6 +8,23 @@ lang: en
 Notes from Cousera class on 
 [Collaborative Robot Safety: Design & Deployment](https://de.coursera.org/learn/collaborative-robot-safety)
 
+# Key Take-away
+* The compression constant of the human hand is: 75 N/mm
+* The collaborative robots can typically handle a payload of 1-5 kg and would cost around $30-40K per application station.
+* Categories of cobot include:
+    * power and force limiting
+    * Speed and separation monitoring
+    * ...
+* Cobot are not intrinsically safe: EAT needs to be assessed:
+    * counter-example: a cobot holding a knife is not safe
+* ISO TS 15066 based on Mainz University measures for:
+    * Clamping force in N
+    * Impact force in N
+    * Pressure in N/m2
+    * Compresison constant for different human body parts in N/mm
+
+
+
 
 ## Week 3
 ### Video Applications
