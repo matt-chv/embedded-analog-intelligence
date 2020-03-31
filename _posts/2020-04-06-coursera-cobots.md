@@ -67,3 +67,7 @@ However, to date, 15066 says very little about how to test robots to determine i
 
 [GTE force testing fixture on youtube](https://www.youtube.com/watch?v=4Q92fAOqTSc&feature=youtu.be)
 [GTE product page](https://www.gte.de/product/force-measuring-systems-for-collaborating-robots/?lang=en)
+
+[Quasi static vs Transient](https://www.youtube.com/watch?v=dP_CX8MGlx4&feature=youtu.be)
+* Quasi-static: crushing
+* transient: human body free to move
