@@ -1,12 +1,3 @@
----
-theme : "night"
-transition: "slide"
-highlightTheme: "monokai"
-logoImg: "logo.png"
-slideNumber: false
-title: "VSCode Reveal intro"
----
-
 # Reveal.js for business
 
 ### How to structure thoughs and rendering
