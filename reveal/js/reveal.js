@@ -44,7 +44,7 @@
 			// The "normal" size of the presentation, aspect ratio will be preserved
 			// when the presentation is scaled to fit different resolutions
 			width: 960,
-			height: 700,
+			height: 700, //mcv was : 700
 
 			// Factor of the display size that should remain empty around the content
 			margin: 0.04,
@@ -2295,10 +2295,10 @@
 					else {
 						dom.slides.style.zoom = '';
 						dom.slides.style.left = '50%';
-						dom.slides.style.top = '50%';
+						dom.slides.style.top = '40%';  //mcv was 50% - making it 40% to accomodate for the bottom bar
 						dom.slides.style.bottom = 'auto';
 						dom.slides.style.right = 'auto';
-						transformSlides( { layout: 'translate(-50%, -50%) scale('+ scale +')' } );
+						transformSlides( { layout: 'translate(-50%, -50%) scale('+ 0.9*scale +')' } ); //mcv was: translate(-50%, -50%) scale('+ scale +')' making it 90% to allow for the bottom bar
 					}
 				}
 

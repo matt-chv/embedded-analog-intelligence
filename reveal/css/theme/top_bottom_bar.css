@@ -45,11 +45,12 @@
 
  .reveal div.botbar {
     background: url("../../images/platform_bar_h100.png") top left repeat-x;
+    background-size: auto 100%;
     position: absolute;
-    top: 80%;
+    top: 90%;
     left: 0;
     width: 100%;
-    height: 125px;
+    height: 8%;
     z-index: -1;
 }
 
@@ -61,22 +62,23 @@
     moz-border-radius: 15px;
     webkit-border-radius: 15px;
     position: absolute;
-    top: 28px;
+    top: 27%;
     right: 1em;
-    height: 30%;
+    height: 20%;
 }
 
 /* Barra superior cuando se imprime */
 .reveal section div.botbar .logo {
     top: 0px;
     box-shadow: none;
+    height: 80%
 }
 
-.reveal .bottitle {
+.reveal div.botbar .bottitle {
   color: black;
   text-shadow: none;
   position: absolute;
-  top: 44px;
+  top: 25%;
   left: 0.5em;
-  font-size: 0.8em;
+  font-size: 3.7vh;//0.8em;
 }
