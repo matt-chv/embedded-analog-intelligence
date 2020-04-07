@@ -10,43 +10,46 @@ MECE pyramid allows to structure thought from:
 * key message 
 * to supporting thouhts/arguments
 * to supporting data 
+
 ![](Barbara-Minto-mece.jpg)
-press 'ESC' in presentation mode for overview
 
 ----
 
-## MECE pyaramid - supporting #1
+## MECE pyaramid (Breadth first) v Scholar - #1
 
-Reveal allows to have multi-hiearchy 
+* MECE focus on arguments exploration on breadth first, vs
+* school argument exploration being depth first...
 
-----
-
-## MECE pyaramid - supporting #2
-
-Reveal allows to have multi-hiearchy 
+<iframe data-src="https://en.wikipedia.org/wiki/Breadth-first_search" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 ----
 
-## MECE pyaramid - supporting #3
+<!-- .slide: data-background-iframe="https://en.wikipedia.org/wiki/Thesis,_antithesis,_synthesis" data-background-interactive-->
 
-Reveal allows to have multi-hiearchy 
+## MECE pyaramid v Scholar (Depth first) #2
+
+Whereas school around the world focus on going deep first
+
+----
+
+## MECE pyaramid vs Scholar #3
+
+Another analogy is Google vs Yahoo
 
 ---
 
-## reveal.js allows to display structured thoughts
+## reveal.js focuses on rendering structured thoughts
 
 * press `ESC` to show the entire slidedeck structure
 * multi-tier presentation supported
 * links to external web sites/presentation for supporting data 
 
----
+----
 
 ## Reveal.js - supporting #1
 
-Reveal allows to have multi-hiearchy 
-
----
+----
 
 ## Reveal.js - supporting #2
 
-Reveal allows to have multi-hiearchy 
+iframe in 2nd level provide equivalent to MECE 3rd level  
