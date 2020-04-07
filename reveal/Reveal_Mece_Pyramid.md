@@ -4,7 +4,7 @@
 
 ---
 
-<!-- .slide: data-background="Barbara-Minto-mece.jpg" -->
+<!-- .slide: data-background="Barbara-Minto-mece.jpg" data-background-size="500px"-->
 
 ## MECE pyramid
 
