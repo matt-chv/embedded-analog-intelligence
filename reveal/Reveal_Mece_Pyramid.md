@@ -20,7 +20,7 @@
 * MECE focus on arguments exploration on breadth first, vs
 * school argument exploration being depth first...
 
-<iframe data-src="https://en.wikipedia.org/wiki/Breadth-first_search" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe data-src="https://en.wikipedia.org/wiki/Breadth-first_search" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 150%;" allowfullscreen> </iframe>
 
 ----
 
