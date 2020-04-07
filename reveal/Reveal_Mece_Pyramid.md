@@ -4,16 +4,14 @@
 
 ---
 
-<!-- .slide: data-background-iframe="https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it" data-background-interactive-->
+<!-- .slide: data-background="Barbara-Minto-mece.jpg" -->
 
 ## MECE pyramid
 
-MECE pyramid allows to structure thought from:
-* key message 
-* to supporting thouhts/arguments
-* to supporting data 
-
-![](Barbara-Minto-mece.jpg)
+[MECE pyramid](https://www.mckinsey.com/alumni/news-and-insights/global-news/alumni-news/barbara-minto-mece-i-invented-it-so-i-get-to-say-how-to-pronounce-it) allows to structure thought from:
+1. key message 
+2. to supporting thouhts/arguments
+3. to supporting data 
 
 ----
 
