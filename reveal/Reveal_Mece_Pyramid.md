@@ -26,9 +26,11 @@ MECE pyramid allows to structure thought from:
 
 <!-- .slide: data-background-iframe="https://en.wikipedia.org/wiki/Thesis,_antithesis,_synthesis" data-background-interactive-->
 
-## MECE pyaramid v Scholar (Depth first) #2
+<div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+    <h2>MECE pyaramid v Scholar (Depth first) </h2>
+    <p>Whereas school around the world focus on going deep first.</p>
+</div>
 
-Whereas school around the world focus on going deep first
 
 ----
 
