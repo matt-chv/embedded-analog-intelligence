@@ -38,13 +38,10 @@ Notes: Remmeber to say something funny here: 3C of F has nothing to do with the 
 What is ROS, let's do a little look back in the future of robotics
 <ul>
    <span class="fragment"><li> 2007 *real* start to avoid constant re-inventing the wheel </li></span>
-   <span class="fragment"><li> 2012 [ROS-I](https://rosindustrial.org/briefhistory) github launched </li></span>
-   <span class="fragment"><li> 2017 [ROS2](https://index.ros.org/doc/ros2/Releases/) </li>
-         <ul>
-            <li> <small>[1v2](https://www.generationrobots.com/blog/en/ros-vs-ros2/)</small> </li>
-            <li> <small>[why](https://design.ros2.org/articles/why_ros2.html)</small> </li>
-         </ul>
-   </span>
+   <span class="fragment"><li> 2012 <a href="https://rosindustrial.org/briefhistory">ROS-I</a> github launched </li></span>
+   <span class="fragment"><li> 2017 <a href="https://index.ros.org/doc/ros2/Releases/">ROS2<a/>, 
+      <span class="fragment"><small>[1v2](https://www.generationrobots.com/blog/en/ros-vs-ros2/)</small></span>,
+       <span class="fragment"> <small>[why](https://design.ros2.org/articles/why_ros2.html)</small></small> </li>
 </ul>
 <iframe data-src="https://www.theconstructsim.com/timeline-robot-operating-system-ros/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
