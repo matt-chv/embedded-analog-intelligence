@@ -36,13 +36,15 @@ Notes: Remmeber to say something funny here: 3C of F has nothing to do with the 
 ## ROS
 
 What is ROS, let's do a little look back in the future of robotics
-
-* 2007 *real* start to avoid constant re-inventing the wheel <!-- .element: class="fragment" data-fragment-index="1" -->
-* 2012 [ROS-I](https://rosindustrial.org/briefhistory) github launched <!-- .element: class="fragment" data-fragment-index="2" -->
-* 2017 [ROS2](https://index.ros.org/doc/ros2/Releases/) <!-- .element: class="fragment" data-fragment-index="3" -->
-    * <small>[1v2](https://www.generationrobots.com/blog/en/ros-vs-ros2/)</small> <!-- .element: class="fragment" data-fragment-index="3" -->
-    * <small>[why](https://design.ros2.org/articles/why_ros2.html)</small> <!-- .element: class="fragment" data-fragment-index="4" -->
-
+<ul>
+   <span class="fragment"><li> 2007 *real* start to avoid constant re-inventing the wheel </li></span>
+<span class="fragment"><li> 2012 [ROS-I](https://rosindustrial.org/briefhistory) github launched </li></span>
+<span class="fragment"><li> 2017 [ROS2](https://index.ros.org/doc/ros2/Releases/) </li>
+   <ul>
+    <li> <small>[1v2](https://www.generationrobots.com/blog/en/ros-vs-ros2/)</small> </li>
+    <li> <small>[why](https://design.ros2.org/articles/why_ros2.html)</small> </li>
+   </ul></span>
+</ul>
 <iframe data-src="https://www.theconstructsim.com/timeline-robot-operating-system-ros/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 
