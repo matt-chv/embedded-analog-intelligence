@@ -35,7 +35,6 @@ Notes: Remmeber to say something funny here: 3C of F has nothing to do with the 
 
 ## ROS
 
-What is ROS, let's do a little look back in the future of robotics
 <ul>
    <span class="fragment"><li> 2007 *real* start to avoid constant re-inventing the wheel </li></span>
    <span class="fragment"><li> 2012 <a href="https://rosindustrial.org/briefhistory">ROS-I</a> github launched </li></span>
@@ -45,6 +44,7 @@ What is ROS, let's do a little look back in the future of robotics
 </ul>
 <iframe data-src="https://www.theconstructsim.com/timeline-robot-operating-system-ros/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
+Notes: What is ROS, let's do a little look back in the future of robotics. We can also have a look at the official ROS timeline in this small iframe
 
 ---
 
