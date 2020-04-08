@@ -48,23 +48,16 @@ What is ROS, let's do a little look back in the future of robotics
 
 ---
 
-<!-- .slide: data-background-iframe="http://wiki.ros.org/ainstein_radar/Tutorials/Radar%20and%20camera%20sensor%20fusion" data-background-interactive-->
+<!-- .slide: data-background-iframe="https://wiki.ros.org/ainstein_radar/Tutorials/Radar%20and%20camera%20sensor%20fusion" data-background-interactive-->
 
 <div style="position: absolute; width: 40%; right: 0; box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
     <h2>mmWave and vision fusion in ROS </h2>
   <ul> 
-    <span class="fragment"><li> Why re-invent the wheel? </li></span>
+    <li> Why re-invent the wheel? </li></span>
     <span class="fragment"><li> When demo already on ROS tutorial </li></span>
     <span class="fragment"><li> Well because TI mmwave has many more built-in features making fusion stronger and faster </li></span>
     <span class="fragment"><li> and because next step is to do fusion with industrial cameras with  </li></span>
-    
   </ul>
-<p>Since reveal.js runs on the web, you can easily embed other web content. Try interacting with the page in the background.</p>
 </div>
-
-
-
-* 
-* 
 
 ---
