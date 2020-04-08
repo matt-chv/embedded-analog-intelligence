@@ -43,7 +43,7 @@ What is ROS, let's do a little look back in the future of robotics
     * <small>[1v2](https://www.generationrobots.com/blog/en/ros-vs-ros2/)</small> <!-- .element: class="fragment" data-fragment-index="3" -->
     * <small>[why](https://design.ros2.org/articles/why_ros2.html)</small> <!-- .element: class="fragment" data-fragment-index="4" -->
 
-<iframe data-src="https://www.theconstructsim.com/timeline-robot-operating-system-ros/" width="445" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe data-src="https://www.theconstructsim.com/timeline-robot-operating-system-ros/" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="yes" style="border:3px solid #666; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 
 ---
