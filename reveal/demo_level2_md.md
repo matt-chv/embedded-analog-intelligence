@@ -6,8 +6,7 @@
 ## Slide 2 - demo level 2
 
 * raw
-
-\sigma = \sqrt{\frac{\sum{(x-\mu)^2{N}} }}
+\begin \sigma = \sqrt{\frac{\sum{(x-\mu)^2{N}} }} \end
 
 * with one $
 
