@@ -5,13 +5,7 @@
 
 ## Slide 2 - demo level 2
 
-$ \sum{X} $
-
-* raw 1
-
-\begin
-\sigma = \sqrt{\frac{\sum{(x-\mu)^2}{N}} } 
-\end
+* basic: $ \sum{X} $
 
 * with one $
 
@@ -20,7 +14,7 @@ $ \sigma = \sqrt{ \frac{\sum{(x-\mu)^2}}{N} } $
 * raw 2
 
 \begin{aligned}
-\dot{x} &amp; = \sigma(y-x) \\
-\dot{y} &amp; = \rho x - y - xz \\
-\dot{z} &amp; = -\beta z + xy
+\dot{x} &amp; = \sigma(y-x) \\    
+\dot{y} &amp; = \rho x - y - xz \\    
+\dot{z} &amp; = -\beta z + xy    
 \end{aligned}
