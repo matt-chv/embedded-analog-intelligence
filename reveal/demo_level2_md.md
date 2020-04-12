@@ -7,9 +7,9 @@
 
 * basic: $ \sum{X} $
 
-* with one $
+* with two $$:
 
-$ \sigma = \sqrt{ \frac{\sum{(x-\mu)^2}}{N} } $
+$$ \sigma = \sqrt{ \frac{\sum{(x-\mu)^2}}{N} } $$
 
 * raw 2
 
