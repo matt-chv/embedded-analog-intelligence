@@ -5,6 +5,8 @@
 
 ## Slide 2 - demo level 2
 
+$ \sum{X} $
+
 * raw 1
 
 \begin
