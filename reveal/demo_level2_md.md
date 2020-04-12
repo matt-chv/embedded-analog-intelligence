@@ -6,13 +6,15 @@
 ## Slide 2 - demo level 2
 
 * raw
-\begin \sigma = \sqrt{\frac{\sum{(x-\mu)^2}{N}} } \end
+\begin
+\sigma = \sqrt{\frac{\sum{(x-\mu)^2}{N}} } 
+\end
 
 * with one $
 
 $ \sigma = \sqrt{\frac{\sum{(x-\mu)^2{N}} }} $
 
-* raw
+* raw 2
 
 \begin{aligned}
 \dot{x} &amp; = \sigma(y-x) \\
