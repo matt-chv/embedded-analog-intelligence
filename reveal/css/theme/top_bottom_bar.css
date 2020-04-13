@@ -14,9 +14,9 @@
 
 /* Barra superior cuando se visualiza en pantalla */
 .reveal div.topbar .logo {
-    background-color: #fff; 
-    border: solid #fff 10px;
-    border-radius: 15px;
+    //background-color: #fff; 
+    //border: solid #fff 10px;
+    //border-radius: 15px;
     moz-border-radius: 15px;
     webkit-border-radius: 15px;
     position: absolute;
