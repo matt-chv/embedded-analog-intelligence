@@ -214,7 +214,7 @@ You can override background transitions per-slide.
 
 <!-- .slide: data-background-iframe="https://matt-chv.github.io/embedded-analog-intelligence/reveal/demo_level2.htm#/" data-background-interactive-->
 
-<div style="position: absolute; width: 40%; right: 0; top: 25% box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
+<div style="position: absolute; width: 40%; right: -50%; top: 25% box-shadow: 0 1px 4px rgba(0,0,0,0.5), 0 5px 25px rgba(0,0,0,0.2); background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px; font-size: 20px; text-align: left;">
     <h2>Reveal level 2 in iframe</h2>
 <p>Since reveal.js runs on the web, you can easily embed other web content. Including another reveal.js presentation.
 	Try interacting with the page in the background.</p>
