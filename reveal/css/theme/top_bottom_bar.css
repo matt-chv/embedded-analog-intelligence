@@ -54,20 +54,20 @@
     z-index: -1;
 }
 
-/* Barra superior cuando se visualiza en pantalla */
+/* Footer logo */
 .reveal div.botbar .logo {
-    background-color: #fff; 
-    border: solid #fff 10px;
-    border-radius: 15px;
-    moz-border-radius: 15px;
-    webkit-border-radius: 15px;
+    //background-color: #fff; 
+    //border: solid #fff 10px;
+    //border-radius: 15px;
+    //moz-border-radius: 15px;
+    //webkit-border-radius: 15px;
     position: absolute;
     top: 27%;
     right: 1em;
-    height: 20%;
+    height: 50%;
 }
 
-/* Barra superior cuando se imprime */
+/* footer when printed */
 .reveal section div.botbar .logo {
     top: 0px;
     box-shadow: none;
