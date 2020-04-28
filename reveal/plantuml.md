@@ -7,7 +7,7 @@ Notes: Examples notes
 
 ## UML Diagrams and more
 
-| Sequence    | Use Cases | Class      | Acivity       |
+| Sequences   | Use Cases | Class      | Acivity       |
 |-------------|-----------|------------|---------------|
 | [][seq]     | [][uc]    | [][class]  | [][activity]  |
 
