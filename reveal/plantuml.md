@@ -8,6 +8,7 @@ Notes: Examples notes
 ## UML Diagrams and more
 
 | Sequence    | Use Cases | Class      | Acivity       |
+|-------------|-----------|------------|---------------|
 | [][seq]     | [][uc]    | [][class]  | [][activity]  |
 
 [seq]: https://s.plantuml.com/imgw/img-2694ca9a35b51a04d49c3be64163a530.webp
