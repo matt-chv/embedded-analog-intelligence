@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.2" x="0px" y="0px" viewBox="0 0 400 400"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"    >
+      <defs>
+    <style type="text/css"><![CDATA[
+       #robot_style {
+        fill:#ffffff; fill-opacity:1;
+        fill-rule:nonzero;
+        stroke:#000000;
+        stroke-width:11;
+        stroke-miterlimit:4;
+        stroke-dasharray:none;
+        stroke-dashoffset:0;
+        stroke-opacity:1
+       }
+    ]]></style>
+    
+  </defs>
+      <defs>
+    <style type="text/css"><![CDATA[
+       #arm_style {
+        fill:#000000; fill-opacity:1;
+        fill-rule:nonzero;
+        stroke:#ffffff;
+        stroke-width:10;
+        stroke-linecap:round;
+        stroke-miterlimit:4;
+        stroke-dasharray:none;
+        stroke-dashoffset:0;
+        stroke-opacity:1
+       }
+    ]]></style>
+    
+  </defs>
+
+    <defs>
+           <g id="proppeller">
+            <!-- define here the joint -->
+            <circle cx="0" cy="0" r="100" id="robot_style"/>
+            </g>
+    </defs>
+
+    <defs>
+           <g id="arm">
+            <!-- define here the joint -->
+            <rect x="-20" y="-25" width="150" height="50" rx="25" id="arm_style"/>
+            </g>
+    </defs>
+        <defs>
+           <g id="body">
+            <!-- define here the joint -->
+            <circle cx="0" cy="0" r="40" fill="#000000" stroke="#000000" stroke-width="#000000"/>
+            </g>
+    </defs>
+
+
+    <g transform="translate(100 100) scale(0.7) ">
+      <use xlink:href="#proppeller"/>
+    </g>
+    <g transform="translate(300 100) scale(0.7) ">
+      <use xlink:href="#proppeller"/>
+    </g>
+    <g transform="translate(300 300) scale(0.7) ">
+      <use xlink:href="#proppeller"/>
+    </g>
+    <g transform="translate(100 300) scale(0.7) ">
+      <use xlink:href="#proppeller"/>
+    </g>
+    <g transform="translate(100 100)">
+    <g transform="rotate(45)  scale(1.0)  ">
+      <use xlink:href="#arm"/>
+    </g>
+    </g>
+    <g transform="translate(300 100)">
+    <g transform="rotate(135)  scale(1.0)  ">
+      <use xlink:href="#arm"/>
+    </g>
+    </g>
+    <g transform="translate(300 300)">
+    <g transform="rotate(225)  scale(1.0)  ">
+      <use xlink:href="#arm"/>
+    </g>
+    </g>
+    <g transform="translate(100 300)">
+    <g transform="rotate(315)  scale(1.0)  ">
+      <use xlink:href="#arm"/>
+    </g>
+    </g>
+
+    <g transform="translate(200 200) ">
+      <use xlink:href="#body"/>
+    </g>
+</svg>

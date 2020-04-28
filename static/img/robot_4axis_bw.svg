@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg version="2.0" xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 200 800">
-<defs>
+<svg version="1.2" x="0px" y="0px" viewBox="0 120 600 400"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"    >
+  <defs>
     <style type="text/css"><![CDATA[
-       #robot_style_blue {
-        fill:#1bbde8; fill-opacity:1;
+       #robot_style {
+        fill:#ffffff; fill-opacity:1;
         fill-rule:nonzero;
-        stroke:#1484b0;
+        stroke:#000000;
         stroke-width:11.11346245;
         stroke-miterlimit:4;
         stroke-dasharray:none;
@@ -14,12 +16,12 @@
        }
     ]]></style>
   </defs>
-  <defs>
+<defs>
     <style type="text/css"><![CDATA[
-       #robot_style {
-        fill:#ffffff; fill-opacity:1;
+       #robot_style_blue {
+        fill:#1bbde8; fill-opacity:1;
         fill-rule:nonzero;
-        stroke:#000000;
+        stroke:#1484b0;
         stroke-width:11.11346245;
         stroke-miterlimit:4;
         stroke-dasharray:none;
@@ -77,40 +79,40 @@
     </g>
     </defs>
     <g transform="translate(0 400) scale(0.8) ">
-      <use href="#base"/>
+      <use xlink:href="#base"/>
     </g>
     <g transform="translate(50 320) scale(0.5) " >
       <!-- shoulder -->
-      <use href="#base"/>
+      <use xlink:href="#base"/>
     </g>
 
     <g transform="translate(200 270) rotate(-45) scale(0.5) " >
       <!-- arm -->
-      <use href="#base"/>
+      <use xlink:href="#base"/>
     </g>
     
     <g transform="translate(400 175) rotate(45) scale(0.5) " >
       <!-- forearm -->
-      <use href="#base"/>
+      <use xlink:href="#base"/>
     </g>
       
       <!-- shoulder joint -->
       <g transform="translate(200 320) scale(0.5) ">
-      <use href="#joint" />
+      <use xlink:href="#joint" />
       </g>
     
       <!-- elbow joint -->
       <g transform="translate(350 175) scale(0.5) ">
-      <use href="#joint" />
+      <use xlink:href="#joint" />
       </g>
       
       <g transform="translate(175 400)">
-         <use href="#hand" />
+         <use xlink:href="#hand" />
       </g>
 
       <!-- wrist joint -->
       <g transform="translate(475 305) scale(0.4) ">
-      <use href="#joint" />
+      <use xlink:href="#joint" />
       </g>
 
 
