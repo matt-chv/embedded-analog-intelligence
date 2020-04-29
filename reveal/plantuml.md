@@ -32,7 +32,7 @@ Notes: Examples notes
 
 | Timing     | Network   | Wireframe  | Rest          |
 |------------|-----------|------------|---------------|
-| ![][timing]| ![][nw]   | ![][wf]   | to come       |
+| ![][timing]| ![][nw]   | ![][wf]    | to come       |
 
 [timing]:https://s.plantuml.com/imgw/img-a4c61d5d4b213bb37c88093517279c39.webp
 [nw]:https://s.plantuml.com/imgw/img-f4b7448e42d7b655077c71729fb63927.png
