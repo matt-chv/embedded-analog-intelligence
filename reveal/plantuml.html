@@ -43,7 +43,20 @@
 
         <script src="lib/js/head.min.js"></script>
 		<script src="js/reveal.js"></script>
+		
+	<script>
+	Reveal.initialize({	
+		// Display presentation control arrows
+		controls: true,
 
+		// Help the user learn the controls by providing hints, for example by
+		// bouncing the down arrow when they first encounter a vertical slide
+		controlsTutorial: true,
+		dependencies: [
+		{ src: '//cdn.jsdelivr.net/npm/reveal-plantuml' }		]
+	});
+		</script>
+		
         <script src="js/jquery-1.11.0.min.js"></script>
         <script src="js/configuration.js"></script>
         <script src="js/align_vertical.js"></script>
