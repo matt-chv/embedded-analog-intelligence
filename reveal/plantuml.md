@@ -10,9 +10,17 @@ Notes: Examples notes
 | Sequence   | Use Cases | Class      | Acivity       |
 |------------|-----------|------------|---------------|
 | ![][seq]   | ![][uc]   | ![][class] | ![][activity] |
+
+----
+
 | Component  | State     | Object     | Deployment    |
+|------------|-----------|------------|---------------|
 | ![][comp]  | ![][state]| ![][obj]   | ![][deploy]   |
+
+----
+
 | Timing     | Network   | Wireframe  | Rest          |
+|------------|-----------|------------|---------------|
 | ![][timing]| ![][nw]   | ![][wf ]   | ! ...         |
 
 [seq]: https://s.plantuml.com/imgw/img-2694ca9a35b51a04d49c3be64163a530.webp
