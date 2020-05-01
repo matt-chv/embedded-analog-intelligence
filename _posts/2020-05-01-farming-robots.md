@@ -14,8 +14,9 @@ category: business
 ## Overview
 
 |      | naio            | cambridge consultant | more |
-|photo | ![][naio]       | ![][mamut]           | |
-|www   | [naio][naio_ww]| [CC][cc_ww]            | [wiki][wiki_ww] |
+|------|-----------------|----------------------|------|
+|photo | ![][naio]       | ![][mamut]           |      |
+|www   | [naio][naio_ww] | [CC][cc_ww]          | [wiki][wiki_ww] |
 |loc   | tolouse, FR     | cambridge, uk        | |
 |up    | 2020            | 2020                 | |
 
