@@ -14,12 +14,14 @@ category: business
 
 ## Overview
 
-|      | naio            | cambridge consultant | more |
+|      | naio,             | cambridge consultant | more |
 |------|-----------------|----------------------|------|
 |photo | ![][naio]       | ![][mamut]           |      |
 |www   | [naio][naio_ww] | [CC][cc_ww]          | [wiki][wiki_ww] |
 |loc   | tolouse, FR     | cambridge, uk        | |
 |up    | 2020            | 2020                 | |
+|type  | AGV + weeding effector  | AGV + robot vision | |
+
 
 [naio]: https://www.usinenouvelle.com/mediatheque/1/3/9/000864931_image_896x598/naio-ok-jpg.png
 [naio_ww]: www.naio-technologies.com
