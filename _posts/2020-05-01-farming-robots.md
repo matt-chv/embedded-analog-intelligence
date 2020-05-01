@@ -7,6 +7,7 @@ category: business
 
 # Farming robots
 ![][farm_robot]
+
 [farm_robot]:https://www.usinenouvelle.com/mediatheque/1/3/9/000864931_image_896x598/naio-ok-jpg.png
 
 ---
