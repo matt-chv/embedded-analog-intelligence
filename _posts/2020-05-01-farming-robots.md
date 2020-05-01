@@ -23,6 +23,6 @@ category: business
 
 [naio]: https://www.usinenouvelle.com/mediatheque/1/3/9/000864931_image_896x598/naio-ok-jpg.png
 [naio_ww]: www.naio-technologies.com
-[mamut]:https://www.cambridgeconsultants.com/press-releases/mamut-autonomous-robot-field-agritech
-[cc_ww]:https://www.cambridgeconsultants.com/
+[mamut]:https://www.cambridgeconsultants.com/sites/default/files/uploaded-images/PR-hero-mamut.jpg
+[cc_ww]:https://www.cambridgeconsultants.com/press-releases/mamut-autonomous-robot-field-agritech
 [wiki_ww]:https://en.wikipedia.org/wiki/Agricultural_robot
