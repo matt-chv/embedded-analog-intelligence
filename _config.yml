@@ -20,11 +20,11 @@ social:
 #    - icon: fa-facebook
 #      link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/matt_chevrier"
+      link: "https://twitter.com/matt__chv"
     - icon: fa-linkedin
       link: "https://www.linkedin.com/in/matthieuchevrier"
     - icon: fa-stack-exchange
-      link: "https://stackexchange.com/users/13039919/mcv"
+      link: "https://stackexchange.com/users/13039919/matt__chv"
     - icon: fa-github
       link: "https://github.com/matt-chv/embedded-analog-intelligence"
     - icon: fa-whatsapp
@@ -34,14 +34,14 @@ social:
     
 
 share:
-  twitter_username: matt-chv
+  twitter_username: matt__chv
 #  fb_appid: 1749788565247320
 
 urls:
     - text: About Me
-      url: /about/
+      url: /about
     - text: My Projects and Prez
-      url: /projects/
+      url: /projects
     - text: XML Feed
       url: /feed.xml
 
@@ -49,15 +49,16 @@ url: "https://matt-chv.github.io"
 baseurl: "/embedded-analog-intelligence"
 paginate: 20
 per_page: 20
-paginate_path: "/page/:num/"
+paginate_path: "page/:num/"
 markdown: kramdown
 gems:
   - jekyll-paginate
   - jekyll-gist
-
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
+  - jekyll-sitemap
+  - jekyll-feed
+#compress_html:
+#  clippings: all
+#  comments: ["<!-- ", " -->"]
+#  endings: all
   ignore:
     envs: ['development']
