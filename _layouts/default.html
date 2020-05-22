@@ -15,7 +15,7 @@ layout: compress
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
     <meta content="{{ site.share.fb_appid }}" property="fb:app_id">
     <meta content="{{ site.title }}" property="og:site_name">
-    <base href="{{site.url}}{{site.baseurl}}/">
+    <base href="{{site.url}}{{site.baseurl}}">
 
     {% if page.noindex %}
       <meta name="robots" content="noindex">
@@ -41,13 +41,13 @@ layout: compress
 
     {% if page.date %}
       <meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time">
-      <meta content="{{ site.baseurl }}/about/" property="article:author">
+      <meta content="{{ site.baseurl }}/about" property="article:author">
     {% endif %}
 
     {% if page.image %}
       <meta content="{{ site.baseurl }}/static/img/posts/{{ page.image }}" property="og:image">
     {% else %}
-      <meta content="{{ site.baseurl }}{{ site.avatar_url }}" property="og:image">
+      <meta content="{{ site.baseurl }}/{{ site.avatar_url }}" property="og:image">
     {% endif %}
 
     {% if page.categories %}
@@ -131,12 +131,16 @@ layout: compress
               {% endfor %}
             </ul>
           </div>
+          <div class="search" id="js-search">
+            <input type="text" placeholder="(sitemap)~$ type to search" class="search__input form-control" id="js-search__input">
+            <ul class="search__results" id="js-search__results"></ul>
+          </div>
           <hr />
           <ul class="sidebar-nav">
             <strong>Navigation</strong>
-            <li><a href="{{ site.baseurl }}/">Home</a></li>
+            <li><a href="{{site.baseurl}}/">Home</a></li>
             {% for i in site.urls %}
-              <li><a class="about" href="{{site.baseurl}}/{{ i.url }}">{{ i.text }}</a></li>
+              <li><a class="about" href="{{site.baseurl}}{{ i.url }}">{{ i.text }}</a></li>
             {% endfor %}
           </ul>
         </div>
