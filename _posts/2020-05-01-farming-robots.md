@@ -4,6 +4,7 @@ title: Farming robots
 lang: en
 date: 2020-05-01
 categories: [business, actuator]
+comments: true
 ---
 
 # Farming robots 2020
