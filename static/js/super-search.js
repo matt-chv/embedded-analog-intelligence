@@ -59,7 +59,7 @@ baseurl = "embedded-analog-intelligence";
 
     function getPostsFromXml(xml) {
         var json = xmlToJson(xml);
-        return json.channel.item; works on angusmaknum sitemap
+        return json.channel.item; //works on angusmaknum sitemap and github
         //need to update the xpath to <entry>
         //return json.entry is the xpath for the generated sitemap.xml
         //return json.entry;
