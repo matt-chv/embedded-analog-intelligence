@@ -66,7 +66,8 @@ baseurl = "embedded-analog-intelligence";
     }
 
     var xmlhttp=new XMLHttpRequest();
-    xmlhttp.open("GET",baseurl+"/feed.xml");
+    //xmlhttp.open("GET",baseurl+"/feed.xml");
+    xmlhttp.open("GET",baseurl+"/sitemap.xml");
     xmlhttp.onreadystatechange = function () {
         if (xmlhttp.readyState != 4) return;
         if (xmlhttp.status != 200 && xmlhttp.status != 304) { return; }

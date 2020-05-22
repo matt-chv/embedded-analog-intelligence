@@ -43,7 +43,7 @@ urls:
     - text: My Projects and Prez
       url: /projects
     - text: XML Feed
-      url: /feed.xml
+      url: /sitemap.xml
 
 url: "https://matt-chv.github.io"
 baseurl: "/embedded-analog-intelligence"
