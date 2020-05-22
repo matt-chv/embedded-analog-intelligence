@@ -14,7 +14,10 @@ layout: default
 
 <div class="content">
   <div class="post">{{ content }}</div>
+  {% unless page.comments %} 
+  <!-- remove share-page.html when handled via disqus -->
   {% include share-page.html %}
+  {% endunless %}
 </div>
 
 {% assign hasSimilar = '' %}
