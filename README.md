@@ -1,6 +1,5 @@
-## My Stack Problems
-
-> This project forked and has been modified from [agusmakam](https://agusmakmun.github.io) itself forked and modified from  [A simple grey theme for Jekyll](https://github.com/liamsymonds/simplygrey-jekyll),
+## Embedded Analog Intelligence
+> For credits and tools used to build the site, see Credits
 
 ### Demo
 * [https://matt-chv.github.io/embedded-analog-intelligence/](https://matt-chv.github.io/embedded-analog-intelligence/)
