@@ -59,10 +59,10 @@ baseurl = "embedded-analog-intelligence";
 
     function getPostsFromXml(xml) {
         var json = xmlToJson(xml);
-        //return json.channel.item; works on angusmaknum sitemap
+        return json.channel.item; works on angusmaknum sitemap
         //need to update the xpath to <entry>
         //return json.entry is the xpath for the generated sitemap.xml
-        return json.entry;
+        //return json.entry;
     }
 
     var xmlhttp=new XMLHttpRequest();
@@ -132,12 +132,13 @@ baseurl = "embedded-analog-intelligence";
         if (matchingPosts.length && currentResultHash !== lastSearchResultHash) {
             searchResultsEl.classList.remove('is-hidden');
             searchResultsEl.innerHTML = matchingPosts.map(function (post) {
-                //d = new Date(post.pubDate);
+                d = new Date(post.pubDate);
                 //update MCV
-                d = new Date(post.published);
+                //d = new Date(post.published);
                 //MCV: changing next line with one after to adjust for new sitemap.xml syntax
-                //return '<li><a href="' + post.link + '">' + post.title + '<span
-                return '<li><a href="' + post.id + '">' + post.title + '<span class="search__result-date">' + d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
+                //return '<li><a href="' + post.id + '">' + post.title + '<span class="search__result-date">' + 
+                return '<li><a href="' + post.link + '">' + post.title + '<span class="search__result-date">' + 
+                d.toUTCString().replace(/.*(\d{2})\s+(\w{3})\s+(\d{4}).*/,'$2 $1, $3') + '</span></a></li>';
             }).join('');
         }
         lastSearchResultHash = currentResultHash;
