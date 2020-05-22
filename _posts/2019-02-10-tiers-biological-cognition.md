@@ -1,7 +1,7 @@
 ---
 title: Tiers biological cognition
 date: 2019-02-10
-category: theory
+categories: theory
 lang: en
 image: tiers_biological_cognition.jpg
 ---

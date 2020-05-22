@@ -1,7 +1,7 @@
 ---
 title: Direct Drive 
 date: 2019-05-27
-category: actuator
+categories: actuator
 lang: en
 ---
 [Notes from ](https://www.machinedesign.com/mechanical/what-s-difference-between-geared-and-direct-drive-actuators)

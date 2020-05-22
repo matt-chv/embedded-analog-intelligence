@@ -2,7 +2,7 @@
 title: Google ML Crash Course Notes
 date: 2020-04-20
 lang: en
-category: training
+categories: training
 ---
 
 [Google ML Crash Course](https://developers.google.com/machine-learning/crash-course/ml-intro)

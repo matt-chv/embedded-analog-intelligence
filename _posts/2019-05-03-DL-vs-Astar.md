@@ -1,7 +1,7 @@
 ---
 title: Deep learning outperforming A*
 date: 2018-11-16
-category: theory
+categories: theory
 lang: en
 ---
 

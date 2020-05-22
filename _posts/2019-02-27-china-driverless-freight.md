@@ -1,7 +1,7 @@
 ---
 title: China has first driverless logistics deliveries
 date: 2019-02-27
-category: business
+categories: business
 lang: en
 ---
 

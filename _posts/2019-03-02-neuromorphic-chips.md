@@ -1,7 +1,7 @@
 ---
 title: Neuromorphic chips
 date: 2018-11-16
-category: foresight
+categories: foresight
 lang: en
 ---
 

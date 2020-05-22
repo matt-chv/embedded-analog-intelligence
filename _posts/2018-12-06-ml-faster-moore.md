@@ -1,7 +1,7 @@
 ---
 title: ML faster than Moore
 date: 2018-12-06
-category: business
+categories: business
 lang: en
 image: ML_faster_than_moor.jpg
 ---

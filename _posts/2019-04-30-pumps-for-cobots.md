@@ -1,7 +1,7 @@
 ---
 title: Electric Vacuum Generator for Collaborative Robots 
 date: 2019-04-30
-category: actuator
+categories: actuator
 lang: en
 ---
 

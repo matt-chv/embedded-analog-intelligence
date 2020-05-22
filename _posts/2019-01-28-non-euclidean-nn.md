@@ -1,7 +1,7 @@
 ---
 title: Non Euclidean NN
 date: 2019-01-28
-category: theory
+categories: theory
 lang: en
 
 ---

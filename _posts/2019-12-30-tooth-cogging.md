@@ -1,7 +1,7 @@
 ---
 title: “Tooth Cogging”
 date: 2019-12-30
-category: actuator
+categories: actuator
 lang: en
 ---
 

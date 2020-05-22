@@ -1,7 +1,7 @@
 ---
 title: Home Robots Lessons Learned
 date: 2019-05-15
-category: business
+categories: business
 lang: en
 ---
 [IEEE source](https://spectrum.ieee.org/automaton/robotics/home-robots/anki-jibo-and-kuri-what-we-can-learn-from-social-robotics-failures)

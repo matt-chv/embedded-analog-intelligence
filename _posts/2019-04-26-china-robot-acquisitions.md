@@ -1,7 +1,7 @@
 ---
 title: Chinese Robots Acquisitions
 date: 2019-04-26
-category: business
+categories: business
 lang: en
 ---
 

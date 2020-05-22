@@ -1,7 +1,7 @@
 ---
 title: Lancement de l’Agence Cobot, première agence de recrutement de robots collaboratifs
 date: 2018-11-16
-category: business
+categories: business
 lang: fr
 ---
 

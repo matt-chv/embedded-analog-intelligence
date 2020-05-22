@@ -1,7 +1,7 @@
 ---
 title: Time to AGI
 date: 2019-5-18
-category: foresight
+categories: foresight
 lang: en
 ---
 [inspiration from Medium](https://medium.com/@jimstone_68634/the-emperors-new-ai-90689f5dc6e9)

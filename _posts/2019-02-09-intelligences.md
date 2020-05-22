@@ -1,7 +1,7 @@
 ---
 title: Intelligences
 date: 2019-02-09
-category: theory
+categories: theory
 lang: en
 ---
 

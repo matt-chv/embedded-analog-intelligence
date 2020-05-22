@@ -1,7 +1,7 @@
 ---
 title: ROS uberall
 date: 2019-05-14
-category: ros
+categories: ros
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Harmonic drives
 date: 2019-05-27
-category: actuator
+categories: actuator
 lang: en
 ---
 [Notes from White paper](https://www.harmonicdrive.net/media/1770/hdllc-ebook20150326.pdf)

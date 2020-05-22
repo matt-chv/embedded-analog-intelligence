@@ -1,7 +1,7 @@
 ---
 title: BrainOS COTS IFM cameras
 date: 2019-05-14
-category: [sensor,ros]
+categories: [sensor,ros]
 lang: en
 ---
 

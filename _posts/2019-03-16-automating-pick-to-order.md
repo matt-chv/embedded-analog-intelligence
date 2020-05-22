@@ -1,7 +1,7 @@
 ---
 title: Automating pick to order
 date: 2019-03-16
-category: business
+categories: business
 lang: en
 ---
 

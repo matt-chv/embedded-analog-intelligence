@@ -1,7 +1,7 @@
 ---
 title: Sensor Fusion
 date: 2020-01-21
-category: sensor
+categories: sensor
 lang: en
 ---
 

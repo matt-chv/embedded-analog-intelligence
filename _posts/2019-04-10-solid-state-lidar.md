@@ -1,7 +1,7 @@
 ---
 title: Solid State LiDar Companies
 date: 2019-04-10
-category: sensor,lidar
+categories: [sensor,lidar]
 lang: en
 ---
 

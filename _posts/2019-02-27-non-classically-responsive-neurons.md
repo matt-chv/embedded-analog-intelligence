@@ -1,7 +1,7 @@
 ---
 title: Spike time dependant
 date: 2018-11-16
-category: theory
+categories: theory
 lang: en
 ---
 

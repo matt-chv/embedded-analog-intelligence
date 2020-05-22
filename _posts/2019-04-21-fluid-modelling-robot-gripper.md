@@ -1,7 +1,7 @@
 ---
 title: Germany's AI policy
 date: 2018-11-16
-category: theory
+categories: theory
 lang: en
 ---
 [MIT news](http://dpi.csail.mit.edu/)

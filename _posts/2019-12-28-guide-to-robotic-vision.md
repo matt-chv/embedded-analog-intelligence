@@ -1,7 +1,7 @@
 ---
 title: Guide to Robotic Vision
 date: 2019-12-28
-category: sensor,ros
+categories: [sensor,ros]
 lang: en
 ---
 

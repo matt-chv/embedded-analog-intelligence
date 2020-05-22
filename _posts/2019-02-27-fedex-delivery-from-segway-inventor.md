@@ -1,7 +1,7 @@
 ---
 title: FedEx unveils autonomous delivery robot
 date: 2018-11-16
-category: business
+categories: business
 lang: en
 ---
 

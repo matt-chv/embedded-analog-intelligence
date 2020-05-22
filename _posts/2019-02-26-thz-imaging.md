@@ -1,7 +1,7 @@
 ---
 title: THz imaging
 date: 2019-02-26
-category: sensor
+categories: sensor
 lang: en
 ---
 

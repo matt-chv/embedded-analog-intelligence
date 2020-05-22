@@ -1,7 +1,7 @@
 ---
 title: Federated Learning
 date: 2019-02-05
-category: theory
+categories: theory
 lang: en
 image: FederatedLearning_FinalFiles_Flow Chart1.png
 ---

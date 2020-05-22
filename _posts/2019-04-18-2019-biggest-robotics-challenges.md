@@ -1,7 +1,7 @@
 ---
 title: Top challenges in 2019 addrssed at Automate
 date: 2019-04-18
-category: foresight
+categories: foresight
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Bayesian Filtering
 date: 2020-03-11
-category: theory
+categories: theory
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
-title: Coursera - Collaborative Robot Safety: Design & Deployment
+title: Coursera - Collaborative Robot Safety, Design & Deployment
 date: 2020-04-06
-category: safety
+categories: safety
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Robot for inventory
 date: 2019-01-27
-category: business
+categories: business
 lang: en
 ---
 

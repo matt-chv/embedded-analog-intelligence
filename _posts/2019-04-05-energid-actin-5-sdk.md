@@ -1,7 +1,7 @@
 ---
-title: Germany's AI policy
+title: Engergid Robotics SDK
 date: 2019-04-05
-category: ros
+categories: ros
 lang: en
 ---
 [news source](https://www.therobotreport.com/actin-5-energid-robotics-developers-motion-control/)

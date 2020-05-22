@@ -1,7 +1,7 @@
 ---
 title: Adversarial patches against face detection
 date: 2019-04-22
-category: foresight
+categories: foresight
 lang: en
 ---
 [arxiv](https://arxiv.org/abs/1904.08653)

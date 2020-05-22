@@ -1,7 +1,7 @@
 ---
 title: vcsel sensors - tomorrows lidar arrays
 date: 2019-02-10
-category: [sensor,lidar]
+categories: [sensor,lidar]
 lang: en
 image: vcsel_image.jpg
 ---

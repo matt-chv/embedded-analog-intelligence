@@ -1,7 +1,7 @@
 ---
 title: Defending against adversarial artificial intelligence
 date: 2018-12-09
-category: theory
+categories: theory
 lang: en
 image: security_ai.png
 ---

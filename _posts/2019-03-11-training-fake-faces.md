@@ -1,7 +1,7 @@
 ---
 title: Detect fake faces
 date: 2018-11-16
-category: training
+categories: training
 lang: en
 ---
 

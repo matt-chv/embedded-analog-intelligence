@@ -1,11 +1,12 @@
 ---
+layout: post
 title: Farming robots
 lang: en
 date: 2020-05-01
-category: business
+categories: [business, actuator]
 ---
 
-# Farming robots
+# Farming robots 2020
 ![][farm_robot]
 
 [farm_robot]:https://www.usinenouvelle.com/mediatheque/1/3/9/000864931_image_896x598/naio-ok-jpg.png

@@ -2,7 +2,7 @@
 title: New Standard, UL 4600, addresses evaluation of autonomous products
 date: 2020-04-01
 lang: en
-category: safety
+categories: safety
 ---
 
 # UL4600

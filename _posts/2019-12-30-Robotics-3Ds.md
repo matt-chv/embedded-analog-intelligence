@@ -1,7 +1,7 @@
 ---
 title: Robotics 3 Ds
 date: 2019-12-30
-category: business
+categories: business
 lang: en
 ---
 

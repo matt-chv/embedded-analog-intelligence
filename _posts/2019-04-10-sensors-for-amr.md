@@ -1,7 +1,7 @@
 ---
 title: Sensors for AMR
 date: 2019-04-10
-category: sensor
+categories: sensor
 lang: en
 ---
 [news source](https://www.therobotreport.com/mir1000-largest-amr-yet/)

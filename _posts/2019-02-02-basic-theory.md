@@ -1,7 +1,7 @@
 ---
 title: Basic theory for NN
 date: 2019-02-02
-category: theory
+categories: theory
 lang: en
 ---
 

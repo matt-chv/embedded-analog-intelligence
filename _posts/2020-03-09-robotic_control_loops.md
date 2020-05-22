@@ -1,7 +1,7 @@
 ---
 title: Robotic Control Loops
 date: 2020-03-09
-category: actuator
+categories: actuator
 lang: en
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Polyani's Paradox
 date: 2020-02-29
-category: theory
+categories: theory
 lang: en
 ---
 
