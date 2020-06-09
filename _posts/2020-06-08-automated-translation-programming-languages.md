@@ -10,8 +10,8 @@ comments: true
 
 ![](https://pbs.twimg.com/media/EZ-wpGTXsAA7lZv?format=jpg&name=medium)
 
-> Unsupervised Translation of Programming Languages. Feed a model with Python, C++, and Java source code from GitHub, and it automatically learns to translate between the 3 languages in a fully unsupervised way. 
-> <quote> G. Lample on twitter </quote>
+> Unsupervised Translation of Programming Languages. Feed a model with Python, C++, and Java source code from GitHub, and it automatically learns to translate between the 3 languages in a fully unsupervised way.     
+> <quote> G. Lample on twitter - @GuillaumeLample </quote>
 
 [source](https://twitter.com/GuillaumeLample/status/1269982022413570048)
 
