@@ -3,6 +3,7 @@ title: Tesla teardown found to be 6 years ahead of competitors
 lang: en
 categories : [business]
 date: 2020-02-17
+comments: true
 ---
 
 # Tesla teardown: 6 years ahead
