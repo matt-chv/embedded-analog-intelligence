@@ -1,5 +1,5 @@
 ---
-title: Mercedes-Benz and NVIDIA: Software-Defined Computing Architecture for Automated Driving Across Future Fleet
+title: Mercedes-Benz and NVIDIA
 lang: en
 date: 2020-06-23
 categories : [press_release, business]
