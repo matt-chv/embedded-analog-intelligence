@@ -1,5 +1,5 @@
 ---
-title: ex-Googler gives an elderly person grabber to robots
+title: exGoogler gives an elderly person grabber to robots
 lang: en
 date: 2020-07-16
 categories : [actuator]
