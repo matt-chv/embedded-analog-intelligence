@@ -1,7 +1,8 @@
-# Sensor Fusion
-### How to get started
+# Sensor Fusion Beore getting started
 
 ![](../static/img/maze_with_help_grey.png)
+
+> Are you lost, not sure where to start let alone where to go?
 
 Notes: Examples notes
 
