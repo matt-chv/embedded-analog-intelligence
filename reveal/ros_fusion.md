@@ -30,11 +30,11 @@ We will try in the next 20mn to answer those questions.
 
 <!-- .slide: data-background-iframe="https://books.google.com/ngrams/graph?content=sensor+fusion&year_start=1980&year_end=2019&corpus=26&smoothing=3" data-background-interactive-->
 
-## But do they talk about it ?
-
 1. This is a perfect illustration of the hype cycle of sensor fusion.
 2. The peak of inflated expectations was in the 90's then came the through of desillusion
 3. we are now clearly climing on the plateau of productivity
+
+Notes: but do they talk about it?
 
 ----
 
