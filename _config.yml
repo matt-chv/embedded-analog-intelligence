@@ -49,7 +49,7 @@ url: "https://matt-chv.github.io"
 baseurl: "/embedded-analog-intelligence"
 paginate: 20
 per_page: 20
-paginate_path: "page/:num/"
+paginate_path: "/page/:num/"
 markdown: kramdown
 plugins:
   - jekyll-paginate
