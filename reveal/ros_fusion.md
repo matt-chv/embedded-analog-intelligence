@@ -1,5 +1,5 @@
 # Sensor Fusion
-### w/ ROS
+### How to get started
 
 ![](../static/img/maze_with_help.png)
 
