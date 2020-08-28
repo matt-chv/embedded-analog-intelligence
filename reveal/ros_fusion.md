@@ -1,7 +1,7 @@
 # Sensor Fusion
 ### How to get started
 
-![](../static/img/maze_with_help.png)
+![](../static/img/maze_with_help_grey.png)
 
 Notes: Examples notes
 
