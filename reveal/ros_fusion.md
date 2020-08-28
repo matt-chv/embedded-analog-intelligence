@@ -1,6 +1,8 @@
 # Sensor Fusion
 ### w/ ROS
 
+![](../static/img/maze_with_help.png)
+
 Notes: Examples notes
 
 ---
