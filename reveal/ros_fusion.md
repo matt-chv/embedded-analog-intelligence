@@ -1,20 +1,35 @@
-# Sensor Fusion Beore getting started
+# Sensor Fusion Before getting started
 
 ![](../static/img/maze_with_help_grey.png)
 
 > Are you lost, not sure where to start let alone where to go?
+Why ? Wieso ? Pourquoi ? 为什么?
 
-Notes: Examples notes
+
+Notes: Make it clear this is for those who think they need sensor fusion but not sure why, nor what it is let alone how to make it work
+We will try in the next 20mn to answer those questions.
+* Why would you need sensor fusion
+* What is sensor fusion
+* How can you get your first PoC and secure a path to production
 
 ---
 
-## Sensor Fusion 
+## Why is everyone talking about sensor fusion
+
+---
+
+
+
+
+---
+
+## What is Sensor Fusion 
 
 > Leaning to ride a bike is often the human first sensor fusion experience 
 
 ----
 
-## Sensor Fusion: the 3 C's of fusion
+### Sensor Fusion: the 3 C's of fusion
 
 * Competitive: dual channel approach ( 2 overlaping cameras) <!-- .element: class="fragment" data-fragment-index="1" -->
 * Complementary: appending overlapping sensor data (e.g. front and rear camera) <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -24,7 +39,7 @@ Notes: Remmeber to say something funny here: 3C of F has nothing to do with the 
 
 ----
 
-## Sensor Fusion: the 5 Levels of fusion
+### Sensor Fusion: the 5 Levels of fusion
 
 0. Data alignment <!-- .element: class="fragment" data-fragment-index="1" -->
 1. Entity assessment (e.g. signal/feature/object). <!-- .element: class="fragment" data-fragment-index="2" -->
@@ -36,7 +51,7 @@ Notes: Remmeber to say something funny here: 3C of F has nothing to do with the 
 
 ---
 
-## ROS
+### How: ROS first
 
 <ul>
    <span class="fragment"><li> 2007 *real* start to avoid constant re-inventing the wheel </li></span>
