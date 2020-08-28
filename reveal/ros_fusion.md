@@ -16,8 +16,29 @@ We will try in the next 20mn to answer those questions.
 
 ## Why is everyone talking about sensor fusion
 
----
+> Sensor fusion is a key set of technologies for autonomous vehicles
 
+| self driving cars | self landing planes |  self driving robots |
+|-------------------|---------------------|----------------------|
+| ![][Tesla]        | ![][Airbus]         |   ![][wheeled]       |
+
+[driverless]: https://www.ttrweekly.com/site/wp-content/uploads/2018/11/driverless.jpg
+[Airbus]:https://omyplane.com/wp-content/uploads/2020/07/sszaih1uyh4maxresdefault-1280x400.jpg
+[wheeled]:https://media1.giphy.com/media/MsghJNDA0Od2w/source.gif
+
+----
+
+<!-- .slide: data-background-iframe="https://books.google.com/ngrams/graph?content=sensor+fusion&year_start=1980&year_end=2019&corpus=26&smoothing=3" data-background-interactive-->
+
+## But do they talk about it ?
+
+1. This is a perfect illustration of the hype cycle of sensor fusion.
+2. The peak of inflated expectations was in the 90's then came the through of desillusion
+3. we are now clearly climing on the plateau of productivity
+
+----
+
+## Who talks about it?
 
 
 
