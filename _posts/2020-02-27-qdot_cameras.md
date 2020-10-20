@@ -1,7 +1,7 @@
 ---
 title: QDots vs CMOS cameras
 date: 2020-02-27
-categories: [sensor, vision_sensor]
+categories: [sensor, sensor_vision]
 comments: true
 lang: en
 ---
