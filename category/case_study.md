@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: example
+categories: case_study
 title: Interesting case studies
-permalink: /category/example
+permalink: /category/case_study
 ---
