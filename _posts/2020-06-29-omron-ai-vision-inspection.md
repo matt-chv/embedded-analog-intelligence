@@ -1,7 +1,7 @@
 ---
 title: OMRON Releases FH Series Vision System
 date: 2020-06-29
-categories: business
+categories: [press_release, business]
 lang: en
 ---
 
