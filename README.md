@@ -51,27 +51,14 @@ All categories saved inside path of `category/`, you can see the existed categor
 2013-09-23-welcome-to-jekyll.markdown
 ```
 
-Inside the file of it,
-
-```
----
-layout: post                          # (require) default post layout
-title: "Your Title"                   # (require) a string title
-date: 2016-04-20 19:51:02 +0700       # (require) a post date
-categories: [python, django]          # (custom) some categories, but makesure these categories already exists inside path of `category/`
-tags: [foo, bar]                      # (custom) tags only for meta `property="article:tag"`
-image: Broadcast_Mail.png             # (custom) image only for meta `property="og:image"`, save your image inside path of `static/img/_posts`
----
-
-# your content post with markdown syntax goes here...
-```
-
 ### Boiler Plate code for new posts:
 ```
 ---
 title: Germany's AI policy
 date: 2018-11-16
-category: business, actuator, foresight, io, ros, technology, theory, training
+categories: [business, actuator, foresight, io, ros, technology, theory, training
 lang: en
 ---
+
+# Post title and content from here
 ```
