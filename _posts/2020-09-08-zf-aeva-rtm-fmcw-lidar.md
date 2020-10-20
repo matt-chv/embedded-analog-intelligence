@@ -1,7 +1,7 @@
 ---
 title: Aeva and ZF Bring First FMCW LiDAR to Automotive Production
 date: 2020-09-08
-categories: business
+categories: [press_release, business, lidar]
 ---
 
 # First FMCW LiDAR to Automotive Production
