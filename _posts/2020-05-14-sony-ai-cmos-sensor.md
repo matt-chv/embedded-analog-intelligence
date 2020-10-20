@@ -1,7 +1,7 @@
 ---
 title: Sony First on CMOS sensor with AI
 date: 2020-05-14
-categories: [business, sensor, vision_sensor]
+categories: [business, sensor, sensor_vision]
 comments: true
 ---
 
