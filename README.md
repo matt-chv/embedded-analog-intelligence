@@ -56,7 +56,7 @@ All categories saved inside path of `category/`, you can see the existed categor
 ---
 title: Germany's AI policy
 date: 2018-11-16
-categories: [business, actuator, foresight, io, ros, technology, theory, training
+categories: [business, actuator, foresight, io, ros, technology, theory, training, mechatronics]
 lang: en
 ---
 
