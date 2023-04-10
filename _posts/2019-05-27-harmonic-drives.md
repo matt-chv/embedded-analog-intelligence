@@ -21,5 +21,9 @@ a negative impact on robot performance and is most
 significant when present in the first and second axes
 ```
 
+## Illustration
+
+![](backlash_cogs_wheels.jpeg)
+
 ### Question
 * How can we compare all drives aspects
